@@ -7,6 +7,8 @@
   * [First game: Matthew Adams](https://adam1354.github.io/FirstGame/index.html) --- I took a game that I played called ever wing and decided to make my own version to it.
 
   * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
+  
+  * [Bee and Ghost: Jackson Cottier]() --- This is a smaller version of a maario clone map. You are a Ghost that has a bee sprite following you around on your adventure.
 
 ## Variations
 
